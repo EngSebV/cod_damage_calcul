@@ -7,7 +7,7 @@ The **COD Damage Calculator** in C++ calculates the damage reduction based on ma
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cod-damage-calculator-cpp.git
+    git clone https://github.com/EngSebV/cod_damage_calcul.git
     ```
 2. Navigate to the C++ version directory:
     ```bash
