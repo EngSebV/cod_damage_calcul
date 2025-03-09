@@ -5,12 +5,12 @@ This repository contains two versions (Python and C++) of a Call of Duty (COD) d
 
 1. Clone the repository:
     ```
-    git clone https://github.com/EngSebV/cod_dmg_calc.git
+    git clone https://github.com/EngSebV/cod_damage_calcul.git
     ```
 ### Python Version
 1. Navigate to the Python directory:
     ```
-    cd cod_dmg_calc/python_version
+    cd cod_damage_calcul/python_version
     ```
 2. Install any necessary dependencies (if applicable) and run the Python script:
     ```
@@ -20,7 +20,7 @@ This repository contains two versions (Python and C++) of a Call of Duty (COD) d
 ### C++ Version
 1. Navigate to the C++ directory:
     ```
-    cd cod_dmg_calc/cpp_version
+    cd cod_damage_calcul/cpp_version
     ```
 2. Compile and run the C++ code using a compiler (e.g., g++):
     ```
