@@ -33,7 +33,7 @@ try:
             print(f"The material is: {material}")
             resulting_damage = dealt_damage
 
-        print(f"Resulting damage: {resulting_damage}:.2f")
+        print(f"Resulting damage: {resulting_damage:.2f}")
 
 except ValueError:
     print("Error: Please enter numeric values for damage and material type.")
