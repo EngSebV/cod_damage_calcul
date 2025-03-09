@@ -1,4 +1,4 @@
-# COD Damage Calculator
+# Python Version
 print(
     "Welcome to COD damage calculator. The materials are as follows:\n"
     "Wood = 1, Metal = 2, Concrete = 3. If you don't know the material, type 0."
