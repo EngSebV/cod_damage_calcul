@@ -7,7 +7,7 @@ The **COD Damage Calculator** in Python calculates the damage reduction based on
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cod-damage-calculator-python.git
+    git clone https://github.com/EngSebV/cod_damage_calcul.git
     ```
 2. Navigate to the Python version directory:
     ```bash
@@ -31,3 +31,8 @@ The **COD Damage Calculator** in Python calculates the damage reduction based on
 Enter base damage: 100
 Enter material type (1 for Wood, 2 for Metal, 3 for Concrete, 0 if unknown): 2
 Resulting damage: 50.00
+```
+
+## 4. Technical Documentation
+- Main Script: cod_dmg_calculator.py
+- Structure: 
